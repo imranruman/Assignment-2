@@ -344,6 +344,8 @@ nav ul{
 
 .text-12{
     color: white;
+    margin-left: 10%;
+    size: ;
 }
 
 .bmi-ca{
@@ -351,8 +353,112 @@ nav ul{
    margin-left: 30%;
     
 }
-    
 
+.fit-10{
+    width: 1440px;
+    height: 487px;
+    margin-left: 2%;
+    margin-right: 2%;
+    background-color: rgba(34, 34, 34, 1);
+}
+
+.text-13{
+    color: white;
+    
+}
+
+table,tr,th,td{
+    border: 1px solid rgb(76, 66, 66);
+    border-collapse: collapse;
+    
+}
+table{
+    height: 371px;
+    width: 322px;
+    margin-left: 10%;
+}
+
+.place-1{
+    width:282.5px ;
+    height:48px ;
+    padding-left: 20px;
+    padding-right: 40px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    opacity: 100%;
+    radius: 10px;
+}
+
+.place-2{
+    width:282.5px ;
+    height:48px ;
+    padding-left: 20px;
+    padding-right: 40px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    opacity: 100%;
+    radius: 10px;
+    
+}
+
+.place-3{
+    width:282.5px ;
+    height:48px ;
+    padding-left: 20px;
+    padding-right: 40px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    opacity: 100%;
+    radius: 10px;
+}
+
+.place-4{
+    width:282.5px ;
+    height:48px ;
+    padding-left: 20px;
+    padding-right: 40px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    opacity: 100%;
+    radius: 10px;
+}
+
+.place-5{
+    width: 577px;
+    height:48px ;
+    padding-left: 20px;
+    padding-right: 40px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    opacity: 100%;
+    radius: 10px;
+}
+    
+.btn-2{
+    width:224px;
+    height: 54px;
+    background-color: rgb(205, 36, 36);
+    border-radius: 30px;
+    color: white;
+
+}
+
+.place-i{
+    background-position-y: top;
+}
+.place-t{
+    margin-left: 37%;
+
+}
+.place-0{
+    display: grid;
+    grid-template-columns:repeat(2,2fr) ;
+    border-radius: 30px;
+    width: 100px;
+    height: 100px;
+    margin-left: 35%;
+    margin-bottom: 30%;
+}
 
 
     
